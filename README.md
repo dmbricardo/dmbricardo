@@ -5,9 +5,6 @@
   codesIn: ["HTML", "CSS", "Ruby"],
   currentlylearning: ["Ruby on Rails", "JavaScript ES6", "SQL"],
   toolsUsed: ["Visual Studio Code", "Bootstrap", "Figma", "GitHub", "Heroku", "Wordpress"],
-  pastExperience: [
-    },
-  ],
 }
 
 <!---
